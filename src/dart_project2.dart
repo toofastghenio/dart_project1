@@ -14,7 +14,7 @@ void main(){
    //Null Safety in simple words means a variable cannot contain a
    //'null' value unless you initialized with null to that variable
 
-   int? number2 = null;
+   // int? number2 = null;
    // int number = 2;
    // double floatingPointNumber = 3.14;
    // bool isOpen = true;
